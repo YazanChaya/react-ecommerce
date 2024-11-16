@@ -1,4 +1,4 @@
-# 💻 Tech Store - Tools4Dev
+# 💻 Tech Store - Yazan
 
 This project is a basic e-commerce tech store created with React.js and styled-components. All the data displayed is made up, but the images have been taken either from unsplash.com ord from amazon.de. There is absolutely any attempt of doing this project with commercial purposes.
 
